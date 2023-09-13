@@ -1,6 +1,6 @@
 ### Hi, my name is Natanael Lino ✌🏾
 
-![ByNael GitHub stats](https://github-readme-stats.vercel.app/api?username=ByNael&show_icons=true&theme=tokyonight)
+![ByNael GitHub stats](https://github-readme-stats.vercel.app/api?username=bynael&show_icons=true&theme=tokyonight)
 
 ## Skills 🐱‍💻
 <div style="display: inline_block"><br>
